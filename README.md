@@ -4,7 +4,6 @@
 <img src="https://github.com/user-attachments/assets/bf8526a0-2513-4f7a-81ff-422bd5633e98" >
 <h2>I am a Web Backend Engineer</h2>
 <p>Languages ​​I Specialize In:</p>
-
   <ul>
   <li>C# Expert</li>
   <li>ASP.NET MVC (Framworke , Core , .Net)</li>
