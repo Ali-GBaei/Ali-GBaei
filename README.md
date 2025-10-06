@@ -6,12 +6,14 @@
 <p>Languages ​​I Specialize In:</p>
   <ul>
   <li>C# Expert</li>
-  <li>ASP.NET MVC (Framworke , Core , .Net)</li>
-  <li>RESTful Web API</li>
+  <li>.Net (ASP .Net Core , Frameworks , ...</li>
+  <li>Api , Web Api , RESTful Api</li>
   <li>Entity Framework</li>
-  <li>SQL Server (SSMS , MySQL)</li>
-  <li>Git/GitHub</li>
+  <li>Mapping , ORM , Microservices</li>
+  <li>DataBase (SQL Server , MySQL)</li>
   <li>Design Pattern</li>
+  <li>Front-End (HTML , CSS , JS)</li>
+  <li>Git/GitHub</li>
 </ul>
 </P>
 
