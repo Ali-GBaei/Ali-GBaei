@@ -9,9 +9,9 @@
   <li>.Net (ASP .Net Core , Frameworks , ...</li>
   <li>Api , Web Api , RESTful Api</li>
   <li>Entity Framework</li>
+  <li>Clean Architecture</li>
   <li>AutoMapping , ORM , Microservices</li>
   <li>DataBase (SQL Server , MySQL)</li>
-  <li>Design Pattern</li>
   <li>Front-End (HTML , CSS , JS)</li>
   <li>Git/GitHub</li>
 </ul>
