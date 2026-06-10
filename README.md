@@ -6,14 +6,14 @@
 <p>Languages ​​I Specialize In:</p>
   <ul>
   <li>C# Expert</li>
-  <li>.Net (ASP .Net Core , Frameworks , ...</li>
-  <li>Api , Web Api , RESTful Api</li>
+  <li>.Net (ASP .Net Core , Asp .Net)</li>
+  <li>Web Api , RESTful Api</li>
   <li>Entity Framework</li>
   <li>Clean Architecture</li>
   <li>AutoMapping , ORM , Microservices</li>
-  <li>DataBase (SQL Server , MySQL)</li>
-  <li>Front-End (HTML , CSS , JS)</li>
-  <li>Git/GitHub</li>
+  <li>DataBase (SQL Server , MySQL, MongoDb)</li>
+  <li>Front-End (Js , ...)</li>
+  <li>Git / GitHub</li>
 </ul>
 </P>
 
