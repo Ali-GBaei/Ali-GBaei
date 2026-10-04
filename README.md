@@ -23,4 +23,10 @@
 My Website is [Ali G.Baee](https://alibaeecodes.ir)
 
 
+## Live Projects & Websites
 
+| Website | Description |
+|---|---|
+| [Muta Peimayesh](https://mutapeimayesh.ir) | Engineering company website and client project portal |
+| [Karen Plastic](https://karenplastic.ir) | Plastic products and manufacturing website |
+| [Ali G. Baee — Resume](https://alibaeecodes.ir) | Personal resume and portfolio website |
